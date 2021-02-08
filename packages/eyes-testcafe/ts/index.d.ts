@@ -1,4 +1,4 @@
-/// <reference path="./eyes.ts" />
+/// <reference path="./eyes.d.ts" />
 
 export default class Eyes {
   /**
